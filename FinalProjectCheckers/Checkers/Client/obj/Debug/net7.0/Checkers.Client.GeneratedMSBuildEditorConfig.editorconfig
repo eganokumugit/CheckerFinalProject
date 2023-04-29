@@ -1,0 +1,37 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Checkers.Client
+build_property.RootNamespace = Checkers.Client
+build_property.ProjectDir = c:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Client\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/egant/OneDrive/Desktop/CPS SPRING 2023/CPS 3330 Mobile Frameworks/Work/FinalProjectCheckers/Checkers/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/egant/OneDrive/Desktop/CPS SPRING 2023/CPS 3330 Mobile Frameworks/Work/FinalProjectCheckers/Checkers/Client/Checkerboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2hlY2tlcmJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/egant/OneDrive/Desktop/CPS SPRING 2023/CPS 3330 Mobile Frameworks/Work/FinalProjectCheckers/Checkers/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/egant/OneDrive/Desktop/CPS SPRING 2023/CPS 3330 Mobile Frameworks/Work/FinalProjectCheckers/Checkers/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/egant/OneDrive/Desktop/CPS SPRING 2023/CPS 3330 Mobile Frameworks/Work/FinalProjectCheckers/Checkers/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jjr8dcsh7h

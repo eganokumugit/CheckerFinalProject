@@ -1,0 +1,12 @@
+C:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Shared\bin\Debug\net7.0\Checkers.Shared.deps.json
+C:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Shared\bin\Debug\net7.0\Checkers.Shared.dll
+C:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Shared\bin\Debug\net7.0\Checkers.Shared.pdb
+C:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Shared\obj\Debug\net7.0\Checkers.Shared.csproj.AssemblyReference.cache
+C:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Shared\obj\Debug\net7.0\Checkers.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Shared\obj\Debug\net7.0\Checkers.Shared.AssemblyInfoInputs.cache
+C:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Shared\obj\Debug\net7.0\Checkers.Shared.AssemblyInfo.cs
+C:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Shared\obj\Debug\net7.0\Checkers.Shared.csproj.CoreCompileInputs.cache
+C:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Shared\obj\Debug\net7.0\Checkers.Shared.dll
+C:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Shared\obj\Debug\net7.0\refint\Checkers.Shared.dll
+C:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Shared\obj\Debug\net7.0\Checkers.Shared.pdb
+C:\Users\egant\OneDrive\Desktop\CPS SPRING 2023\CPS 3330 Mobile Frameworks\Work\FinalProjectCheckers\Checkers\Shared\obj\Debug\net7.0\ref\Checkers.Shared.dll
